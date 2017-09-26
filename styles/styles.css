@@ -47,6 +47,7 @@
 
   .content {
     flex-direction: column;
+    flex-wrap: nowrap;
     width: 80%;
   }
 }
